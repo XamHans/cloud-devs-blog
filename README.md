@@ -1,11 +1,6 @@
 # Cloud Devs Blog
 
-Das ist der Blog von Cloud Devs. Cloud Devs ist eine Vermittlungsplatform für Cloud Experten.
-Hier werden wir regelmäßig über Neuigkeiten berichten.
+Das ist der Blog von [Cloud Devs](https://cloud-devs.de). Cloud Devs ist eine Vermittlungsplatform für Cloud Experten.
+Der Blog behandlet alle Aspekte rund um das Thema Cloud.
 
-## Features
-
-- Search powered by [Lunr.js](https://lunrjs.com/) and [Mark.js](https://markjs.io/)
-- Sitemap
-- RSS Feed
-- SEO ready. If you are looking for more SEO functionality, check out this [Astro SEO Plugin](https://github.com/jonasmerlin/astro-seo).
+Willst du gerne einen Artikel bei uns inserieren? Dann schreib uns eine Mail an johannes@cloud-devs.de oder erstelle ein Issue hier auf Github.

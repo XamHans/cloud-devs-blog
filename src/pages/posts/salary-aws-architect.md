@@ -14,7 +14,7 @@ Als AWS Solutions Architect in Deutschland kannst du mit einem ansehnlichen Geha
 - Faktoren, die sich auf das Gehalt auswirken
 - den Gehaltsvergleich in verschiedenen Städten,
 
-> Ein AWS Solutions Architect ist für den Entwurf und die Bereitstellung von skalierbaren, fehlertoleranten Systemen auf Amazon Web Services (AWS) verantwortlich. Sie arbeiten mit Kunden zusammen, um deren Geschäftsanforderungen zu verstehen und Lösungen zu erstellen, die diese Anforderungen erfüllen. Sie arbeiten auch mit anderen Teams zusammen, z. B. mit Entwicklern und Betriebsleitern, um sicherzustellen, dass die Lösung effizient und sicher ist und den Branchenstandards entsprich
+> Ein AWS Solutions Architect ist für den Entwurf und die Bereitstellung von skalierbaren, fehlertoleranten Systemen auf Amazon Web Services (AWS) verantwortlich. Du arbeitest mit Kunden zusammen, um deren Geschäftsanforderungen zu verstehen und Lösungen zu erstellen, die diese Anforderungen erfüllen. Außerdem arbeitest auch mit anderen Teams zusammen, z. B. mit Entwicklern und Betriebsleitern, um sicherzustellen, dass die Lösung effizient und sicher ist und den Branchenstandards entspricht.
 
 ## Wie hoch ist das Durchschnittsgehalt für AWS Solutions Architects in Deutschland?
 

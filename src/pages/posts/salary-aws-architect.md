@@ -3,7 +3,7 @@ title: 'Was verdient ein AWS Solutions Architect in Deutschland?'
 pubDate: '2023-05-01'
 slug: 'salary-aws-architect'
 description: 'Wie viel kannst du als AWS Solutions Architect in Deutschland verdienen?'
-hero: '/images/javascript-logo-banner.jpg'
+hero: '/images/aws-salary.jpg'
 tags: ['aws', 'gehalt']
 layout: '../../layouts/BlogPostLayout.astro'
 ---
